@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  /* justify-content: space-between; */
+}
+
+.others {
+  flex: 4;
+  /* background-color: darkcyan; */
+}
+
